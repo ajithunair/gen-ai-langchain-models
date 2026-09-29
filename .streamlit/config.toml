@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#62b758"                    # Color for active elements, buttons, sliders
+backgroundColor="#0E1117"                 # Main app background
+secondaryBackgroundColor="#262730"        # Sidebar and card background
+textColor="#FAFAFA"                       # Primary text color
+font="sans serif"                         # Options: "sans serif", "serif", or "monospace"
